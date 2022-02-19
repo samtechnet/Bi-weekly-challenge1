@@ -1,0 +1,24 @@
+// const url = "https://5000/api/book";
+
+    // https.get(url, function (response) {
+    //     // console.log('statusCode:', res.statusCode);
+    //     // response.on("data", (data) => {
+    //     //     const bookFile = JSON.parse(data)
+    //     //     console.log(bookFile);
+
+        
+
+    //     });
+        
+        
+    // });
+    // req.on('error', (error) => {
+    //     console.error(error);
+    // });
+
+
+    // const fileName = await fspromise.open('bookFile.txt', 'a');
+    // await fileName.writeFile('    my best book is "THE SECRET" Authored by: RHONDA BYRNE.')
+      
+    // res.status(200).send(`<p> THIS ENDPOINT CREATE AND WRITE A FILE NAME "bookFile</P>.`)
+    // res.status(200).send('this is from book1 route')
